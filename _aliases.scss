@@ -1,7 +1,17 @@
-///*------------------------------------*\
-//    #ALIASES
-//\*------------------------------------*/
+// *************************************
+//
+//   #ALIASES
+//
+// *************************************
 
 // Reassign lengthy variables to shorter alternatives.
-$spacing-unit:          $tree-base-spacing-unit;
+$spacing-unit:           $tree-base-spacing-unit;
+$spacing-unit--tiny:     $tree-base-spacing-unit--tiny;
+$spacing-unit--small:    $tree-base-spacing-unit--small;
+$spacing-unit--large:    $tree-base-spacing-unit--large;
+$spacing-unit--huge:     $tree-base-spacing-unit--huge;
+
+@mixin font-size($args...) {
+    @include tree-font-size($args...);
+}
 
