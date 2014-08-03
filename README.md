@@ -1,6 +1,12 @@
 # Aliases
 
-The `aliases` module is clone of [inuitcss] (https://github.com/inuitcss) -
-[tools.aliases] (https://github.com/inuitcss/dev-test/blob/gh-pages/_tools.aliases.scss) <q>reassign lengthy variables to shorter alternatives</q>.
+The `aliases` module <q>reassign lengthy variables to shorter alternatives</q>.
 
-It is develop and maintained by [Harry Roberts] (https://twitter.com/csswizardry).
+Install using Bower:
+
+    $ bower install --save tree-aliases
+
+## Credits
+
+* **[inuitcss](https://github.com/inuitcss)** Powerful, Sass-based, OOCSS
+framework designed with scalability and performance in mind.
