@@ -1,0 +1,24 @@
+{
+  "name": "tree-aliases",
+  "description": "Reassign lengthy variables to shorter alternatives.",
+  "version": "0.1.5",
+  "author": "Ilia Kolev <info@iliakolev.com>",
+  "bugs": {
+    "url": "https://github.com/treeframework/tools.aliases/issues"
+  },
+  "dependencies": {
+    "tree-defaults": "~0.2.5"
+  },
+  "homepage": "https://github.com/treeframework/tools.aliases",
+  "keywords": [
+    "oocss",
+    "css",
+    "rwd"
+  ],
+  "license": "MIT",
+  "main": "_tools.aliases.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treeframework/tools.aliases.git"
+  }
+}

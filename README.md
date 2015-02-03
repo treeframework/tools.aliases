@@ -4,7 +4,15 @@ The `aliases` module <q>reassign lengthy variables to shorter alternatives</q>.
 
 Install using Bower:
 
-    $ bower install --save tree-aliases
+```sh
+$ bower install tree-aliases --save
+```
+
+Install using npm:
+
+```sh
+$ npm  install tree-aliases --save
+```
 
 ## Credits
 
