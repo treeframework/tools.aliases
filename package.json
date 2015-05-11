@@ -11,8 +11,8 @@
   },
   "homepage": "https://github.com/treeframework/tools.aliases",
   "keywords": [
-    "oocss",
     "css",
+    "oocss",
     "rwd"
   ],
   "license": "MIT",
