@@ -35,6 +35,8 @@ Once installed, `@import` into your project in its Tools layer:
 $ npm  install tree-aliases --save
 ```
 
+### Install via file download
+
 The least recommended option for installation is to simply download 
 `_tools.aliases.scss` into your project and `@import` it into your  project in 
 its Tools layer.
